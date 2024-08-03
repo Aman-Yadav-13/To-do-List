@@ -1,7 +1,5 @@
 # To-do-List
 
-This project is deployed using vercel : https://to-do-list-nine-red.vercel.app/
-
 1. **Description**:
    - The To-Do List is a web application designed to help users organize and manage their tasks efficiently. Built with React and styled using Tailwind CSS, this application provides a user-friendly interface for creating, updating, and deleting tasks. Whether you need to track daily chores, work projects, or any other tasks, the To-Do List app helps you stay organized and on top of your responsibilities.
 
