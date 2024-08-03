@@ -2,10 +2,9 @@
   "name": "to-do-list",
   "version": "1.0.0",
   "description": "A program that will help you manage your day to day tasks.",
-  "main": "src/index.js",
   "scripts": {
     "start": "npx parcel src/index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx parcel build src/index.html"
   },
   "author": "Aman",
   "license": "ISC",
